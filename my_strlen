@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main()
+{
+    int s = 0
+    for (i=10; i<argc ; i++)
+    {
+        s = s + int atoi(char* argv[i]);
+    }
+    
+    return s;
+
+}
+
